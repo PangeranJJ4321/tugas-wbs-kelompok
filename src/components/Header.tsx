@@ -19,7 +19,7 @@ export function Header() {
       {showBanner && (
         <div className="fixed top-0 inset-x-0 bg-muted text-muted-foreground text-sm py-2 px-4 flex items-center justify-center z-[60]">
           <p className="text-center">
-            Join our Discord Community — Get help, share components, and connect with developers
+            Tema: Manajemen Dana Bantuan Sosial Desa
           </p>
 
           <button

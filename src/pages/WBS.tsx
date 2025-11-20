@@ -349,7 +349,7 @@ export function WBS() {
           <CardContent>
             <div className="w-full bg-muted rounded-full h-4">
               <div
-                className="bg-primary h-4 rounded-full transition-all duration-300"
+                className="bg-slate-500 h-4 rounded-full transition-all duration-300"
                 style={{ width: `${overallProgress}%` }}
               />
             </div>
@@ -402,7 +402,7 @@ export function WBS() {
                     <div className="w-full bg-muted rounded-full h-2">
                       <div
                         className={`h-2 rounded-full transition-all duration-300 ${
-                          isCompleted ? "bg-green-600" : "bg-primary"
+                          isCompleted ? "bg-emerald-500" : "bg-slate-500"
                         }`}
                         style={{ width: `${phaseProgress}%` }}
                       />
