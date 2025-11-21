@@ -71,6 +71,10 @@
   --sidebar-ring: #888888;
 }
 
+::-webkit-scrollbar {
+  display: none;
+}
+
 * {
   border-color: var(--border);
 }
