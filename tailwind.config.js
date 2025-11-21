@@ -8,5 +8,11 @@ export default {
     extend: {},
   },
   plugins: [],
+  safelist: [
+    'ml-40',
+    'ml-80',
+    'lg:ml-80',
+    'lg:pl-[calc(20rem+2rem)]',
+  ],
 }
 

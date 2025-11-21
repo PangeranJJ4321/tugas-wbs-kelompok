@@ -20,7 +20,7 @@ const wbsData = [
       "Studi Kompetitor — laporan ringkas",
       "Dokumen Desain Teknis Awal (SDD) — arsitektur & flow utama"
     ],
-    duration: "Agt 4 - Sep 2",
+    duration: "Agustus Minggu Ke-4 - September Minggu Ke-1",
     status: "completed"
   },
   {
@@ -36,7 +36,7 @@ const wbsData = [
       "Prototype interaktif (halaman inti) — link prototipe Figma",
       "Design system (color, typography, komponen) — style guide"
     ],
-    duration: "Sep 2 - Sep 4",
+    duration: "September Minggu Ke-2 - September Minggu Ke-4",
     status: "completed"
   },
   {
@@ -55,7 +55,7 @@ const wbsData = [
       "Database schema & ERD — SQL dan gambar ERD",
       "Dokumentasi integrasi API (termasuk endpoint & contoh request/response)"
     ],
-    duration: "Okt 1 - Okt 4",
+    duration: "Oktober Minggu Ke-1 - November Minggu Ke-1",
     status: "in_progress"
   },
   {
@@ -71,7 +71,7 @@ const wbsData = [
       "Laporan Hasil Testing & Daftar Bug — status perbaikan tiap sprint",
       "Laporan UAT (User Acceptance Test) beserta feedback pengguna"
     ],
-    duration: "Nov 1 - Nov 2",
+    duration: "November Minggu Ke-2 - November Minggu Ke-3",
     status: "pending"
   },
   {
@@ -87,7 +87,7 @@ const wbsData = [
       "Aplikasi/Website ter-deploy — akses live (domain aktif)",
       "Dokumen konfigurasi server, SSL, backup & monitoring"
     ],
-    duration: "Nov 3",
+    duration: "November Minggu Ke-4",
     status: "pending"
   },
   {
@@ -103,7 +103,7 @@ const wbsData = [
       "Laporan evaluasi sistem",
       "Dokumen perbaikan dan peningkatan"
     ],
-    duration: "Des 1",
+    duration: "Desember Minggu Ke-1",
     status: "pending"
   },
   {
@@ -119,7 +119,7 @@ const wbsData = [
       "Website live dan dapat diakses publik",
       "Dokumentasi pelatihan dan sosialisasi"
     ],
-    duration: "Des 2",
+    duration: "Desember Minggu Ke-2",
     status: "pending"
   },
   {
@@ -135,7 +135,7 @@ const wbsData = [
       "Laporan monitoring dan pemeliharaan berkala",
       "Video tutorial tambahan / knowledge transfer session"
     ],
-    duration: "Des 3 - Des 4",
+    duration: "Desember Minggu Ke-3 - Desember Minggu Ke-4",
     status: "pending"
   }
 ]
